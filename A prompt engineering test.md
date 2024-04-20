@@ -9,12 +9,12 @@ After a similar question was found, You must answer the question with the exact 
 I want if you do not find anything similar to the asked question, do not give an answer based on your knowledge and just say: This question is incomprehensible to me.
 
 ### The questions and answers are as follows:
-**1.**
-* `Question:` Do you need any special skills for internship?
-* `Answer:` No, just being interested in internship is enough.
-**2.**
-* `Question:` How much should the programming skills be for internship?
-* `Answer:` You don't need internship skills and it's enough if you like to learn.
+**1.**\
+       - `Question:` Do you need any special skills for internship?\
+       - `Answer:` No, just being interested in internship is enough.\
+**2.**\
+       - `Question:` How much should the programming skills be for internship?\
+       - `Answer:` You don't need internship skills and it's enough if you like to learn.
 
 >In the following, I will ask you some questions for the test. Wait."
 
