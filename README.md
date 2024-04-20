@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @moazizi87
-- 👀 I’m interested in AI and Socialogy
-- 🌱 I’m currently learning AI
-- 💞️ I took CS50 (x, p and AI)
-- 📫 Email address: mohammadomid1387@gmail.com
-- ⚡ Fun fact: INFP
+This branch is all about my projects and mini projects in GenAI amazing field. 
+Contact me: mohammadomid@gmail.com
 
 <!---
 moazizi87/moazizi87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
