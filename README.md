@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moazizi87
 - 👀 I’m interested in AI and Socialogy
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning GenAI
 - 💞️ I took CS50 (x, p and AI)
 - 📫 Email address: mohammadomid1387@gmail.com
 - ⚡ Fun fact: INFP
