@@ -38,7 +38,6 @@
 ---
 ## About Me
 I'm a high school student at **NODET Amirkabir Technical School**, passionate about **Artificial Intelligence (AI), Data Science, and Audio Processing**. I'm also deeply interested in **Sociology** and its intersection with technology. My main goal is to become an **AI Engineer** and contribute to cutting-edge research and applications in AI.
-![Static Badge](https://img.shields.io/badge/LinkedIn-moazi3-blue)
 
 ## 🔬 What I'm Working On
 - **AI & Data Science Projects**: I'm currently engaged in several projects related to **Machine Learning, Deep Learning, and Speech Processing**.
