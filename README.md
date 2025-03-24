@@ -45,7 +45,7 @@ I'm a high school student at **NODET Amirkabir Technical School**, passionate ab
 - **Educational Content**: Teaching **Python, Machine Learning, and Deep Learning** in offline courses and recording tutorial videos.
 
 ## 📚 Education & Learning
-- **CS50 Graduate**: Completed **CS50x, CS50p (Educator), and CS50 AI**.
+- **CS50 Graduate**: Completed **CS50x, CS50p (As An Educator of This Course), and CS50 AI**.
 - **Boot Camps & Courses**.
 - **Technical Writing & Research**: Authored multiple **scientific review articles** on topics like **Educational Technology and the Role of AI in Higher Education**.
 
